@@ -1,0 +1,19 @@
+{
+  "name": "js211_higher-order-from-scratch",
+  "version": "1.0.0",
+  "description": ".map() - function that takes an array of items and a function that returns an array with each item manipulated by that function.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRios22/JS211_Higher-Order-From-Scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidRios22/JS211_Higher-Order-From-Scratch/issues"
+  },
+  "homepage": "https://github.com/DavidRios22/JS211_Higher-Order-From-Scratch#readme"
+}
